@@ -1,2 +1,2 @@
 # codeatics
-Some useful stuffs in python
+Some python crafts
