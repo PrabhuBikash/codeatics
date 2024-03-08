@@ -2,10 +2,12 @@
 Some python crafts
 
 
-[![Build Status](https://travis-ci.org/yourusername/my-library.svg?branch=main)](https://travis-ci.org/yourusername/my-library)
-[![PyPI version](https://badge.fury.io/py/my-library.svg)](https://badge.fury.io/py/my-library)
+# Codeatics
 
-A brief introduction or overview.
+[![Build Status](https://travis-ci.org/PrabhuBikash/Useful_Stuff.svg?branch=main)](https://travis-ci.org/PrabhuBikash/Useful_Stuff)
+[![PyPI version](https://badge.fury.io/py/codeatics.svg)](https://badge.fury.io/py/codeatics)
+
+A collection of useful stuff by PrabhuBikash😎.
 
 ## Installation
 
